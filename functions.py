@@ -1,2 +1,4 @@
-s = "BI1BKDTPEPQAR"
-attend = s [::3]
+## a+ 
+##s = "BI1BKDTPEPQAR"
+##attend = s [::3]
+
